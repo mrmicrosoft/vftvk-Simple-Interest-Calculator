@@ -1,5 +1,5 @@
 window.onload = function(){
-    document.getElementById("rate").onchange = function(e){
+    document.getElementById("rate").oninput = function(e){
        updateRate();
     };
     updateRate();
