@@ -1,4 +1,23 @@
-body {background-color:tan;}
-h1{color:green;}
+/**{padding:0px; margin:0px; box-sizing:border-box;}
+body {background-color:black;}
+#content{
+    background-color:white; border-radius:20px; margin:5px 32px; padding:24px;
+}
 
 
+h1{color:#808080; margin-top:10px; margin-bottom:30px;}
+.form-div{text-align:center;}
+form{
+    margin:0px auto; border:1px solid black; display:inline-block;
+}*/
+body {background-color:black;font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv{
+    background-color: white; color:black; padding:20px; border-radius:25px; margin:0px 42px;
+}
+
+#result{padding:10px 0px; display:inline-block;}
+.form-holder{text-align:center; max-width:600px;}
+form{display:inline-block; margin:0px auto; text-align:left;}
+
+#rate_val{display:inline-block; vertical-align: bottom; font-size:0.98em; transform: translateY(-6px);} 
