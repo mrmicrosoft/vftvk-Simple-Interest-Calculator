@@ -1,7 +1,8 @@
 body {background-color:black;font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
 .maindiv{
-    background-color: white; color:black; padding:20px; border-radius:25px; margin:0px 42px;
+    background-color: white; color:black; padding:20px; border-radius:25px; margin:0px auto; width:calc(100% - (2 * 42px));
+    max-width:700px;
 }
 
 #result{padding:10px 0px; display:inline-block;}
